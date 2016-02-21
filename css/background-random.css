@@ -1,0 +1,7 @@
+.background-random{
+  position:absolute;
+  width:1024px;
+  height:576px;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
